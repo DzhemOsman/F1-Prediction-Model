@@ -1,0 +1,241 @@
+TeamName,RacePoints,EventName,RoundNumber,EventDate,CumulativePoints,TeamForm_Last3
+Alpine,0.0,Bahrain Grand Prix,1,2024-03-02,0.0,0.0
+Alpine,0.0,Saudi Arabian Grand Prix,2,2024-03-09,0.0,0.0
+Alpine,0.0,Australian Grand Prix,3,2024-03-24,0.0,0.0
+Alpine,0.0,Japanese Grand Prix,4,2024-04-07,0.0,0.0
+Alpine,0.0,Chinese Grand Prix,5,2024-04-21,0.0,0.0
+Alpine,1.0,Miami Grand Prix,6,2024-05-05,1.0,0.33
+Alpine,0.0,Emilia Romagna Grand Prix,7,2024-05-19,1.0,0.33
+Alpine,1.0,Monaco Grand Prix,8,2024-05-26,2.0,0.67
+Alpine,3.0,Canadian Grand Prix,9,2024-06-09,5.0,1.33
+Alpine,3.0,Spanish Grand Prix,10,2024-06-23,8.0,2.33
+Alpine,1.0,Austrian Grand Prix,11,2024-06-30,9.0,2.33
+Alpine,0.0,British Grand Prix,12,2024-07-07,9.0,1.33
+Alpine,0.0,Hungarian Grand Prix,13,2024-07-21,9.0,0.33
+Alpine,2.0,Belgian Grand Prix,14,2024-07-28,11.0,0.67
+Alpine,2.0,Dutch Grand Prix,15,2024-08-25,13.0,1.33
+Alpine,0.0,Italian Grand Prix,16,2024-09-01,13.0,1.33
+Alpine,0.0,Azerbaijan Grand Prix,17,2024-09-15,13.0,0.67
+Alpine,0.0,Singapore Grand Prix,18,2024-09-22,13.0,0.0
+Alpine,0.0,United States Grand Prix,19,2024-10-20,13.0,0.0
+Alpine,1.0,Mexico City Grand Prix,20,2024-10-27,14.0,0.33
+Alpine,33.0,São Paulo Grand Prix,21,2024-11-03,47.0,11.33
+Alpine,0.0,Las Vegas Grand Prix,22,2024-11-23,47.0,11.33
+Alpine,10.0,Qatar Grand Prix,23,2024-12-01,57.0,14.33
+Alpine,6.0,Abu Dhabi Grand Prix,24,2024-12-08,63.0,5.33
+Aston Martin,3.0,Bahrain Grand Prix,1,2024-03-02,3.0,3.0
+Aston Martin,10.0,Saudi Arabian Grand Prix,2,2024-03-09,13.0,6.5
+Aston Martin,12.0,Australian Grand Prix,3,2024-03-24,25.0,8.33
+Aston Martin,8.0,Japanese Grand Prix,4,2024-04-07,33.0,10.0
+Aston Martin,7.0,Chinese Grand Prix,5,2024-04-21,40.0,9.0
+Aston Martin,2.0,Miami Grand Prix,6,2024-05-05,42.0,5.67
+Aston Martin,2.0,Emilia Romagna Grand Prix,7,2024-05-19,44.0,3.67
+Aston Martin,0.0,Monaco Grand Prix,8,2024-05-26,44.0,1.33
+Aston Martin,14.0,Canadian Grand Prix,9,2024-06-09,58.0,5.33
+Aston Martin,0.0,Spanish Grand Prix,10,2024-06-23,58.0,4.67
+Aston Martin,0.0,Austrian Grand Prix,11,2024-06-30,58.0,4.67
+Aston Martin,10.0,British Grand Prix,12,2024-07-07,68.0,3.33
+Aston Martin,1.0,Hungarian Grand Prix,13,2024-07-21,69.0,3.67
+Aston Martin,4.0,Belgian Grand Prix,14,2024-07-28,73.0,5.0
+Aston Martin,1.0,Dutch Grand Prix,15,2024-08-25,74.0,2.0
+Aston Martin,0.0,Italian Grand Prix,16,2024-09-01,74.0,1.67
+Aston Martin,8.0,Azerbaijan Grand Prix,17,2024-09-15,82.0,3.0
+Aston Martin,4.0,Singapore Grand Prix,18,2024-09-22,86.0,4.0
+Aston Martin,0.0,United States Grand Prix,19,2024-10-20,86.0,4.0
+Aston Martin,0.0,Mexico City Grand Prix,20,2024-10-27,86.0,1.33
+Aston Martin,0.0,São Paulo Grand Prix,21,2024-11-03,86.0,0.0
+Aston Martin,0.0,Las Vegas Grand Prix,22,2024-11-23,86.0,0.0
+Aston Martin,6.0,Qatar Grand Prix,23,2024-12-01,92.0,2.0
+Aston Martin,2.0,Abu Dhabi Grand Prix,24,2024-12-08,94.0,2.67
+Ferrari,27.0,Bahrain Grand Prix,1,2024-03-02,27.0,27.0
+Ferrari,22.0,Saudi Arabian Grand Prix,2,2024-03-09,49.0,24.5
+Ferrari,44.0,Australian Grand Prix,3,2024-03-24,93.0,31.0
+Ferrari,27.0,Japanese Grand Prix,4,2024-04-07,120.0,31.0
+Ferrari,22.0,Chinese Grand Prix,5,2024-04-21,142.0,31.0
+Ferrari,25.0,Miami Grand Prix,6,2024-05-05,167.0,24.67
+Ferrari,25.0,Emilia Romagna Grand Prix,7,2024-05-19,192.0,24.0
+Ferrari,40.0,Monaco Grand Prix,8,2024-05-26,232.0,30.0
+Ferrari,0.0,Canadian Grand Prix,9,2024-06-09,232.0,21.67
+Ferrari,18.0,Spanish Grand Prix,10,2024-06-23,250.0,19.33
+Ferrari,15.0,Austrian Grand Prix,11,2024-06-30,265.0,11.0
+Ferrari,11.0,British Grand Prix,12,2024-07-07,276.0,14.67
+Ferrari,20.0,Hungarian Grand Prix,13,2024-07-21,296.0,15.33
+Ferrari,23.0,Belgian Grand Prix,14,2024-07-28,319.0,18.0
+Ferrari,25.0,Dutch Grand Prix,15,2024-08-25,344.0,22.67
+Ferrari,37.0,Italian Grand Prix,16,2024-09-01,381.0,28.33
+Ferrari,18.0,Azerbaijan Grand Prix,17,2024-09-15,399.0,26.67
+Ferrari,16.0,Singapore Grand Prix,18,2024-09-22,415.0,23.67
+Ferrari,43.0,United States Grand Prix,19,2024-10-20,458.0,25.67
+Ferrari,41.0,Mexico City Grand Prix,20,2024-10-27,499.0,33.33
+Ferrari,10.0,São Paulo Grand Prix,21,2024-11-03,509.0,31.33
+Ferrari,27.0,Las Vegas Grand Prix,22,2024-11-23,536.0,26.0
+Ferrari,26.0,Qatar Grand Prix,23,2024-12-01,562.0,21.0
+Ferrari,33.0,Abu Dhabi Grand Prix,24,2024-12-08,595.0,28.67
+Haas F1 Team,0.0,Bahrain Grand Prix,1,2024-03-02,0.0,0.0
+Haas F1 Team,1.0,Saudi Arabian Grand Prix,2,2024-03-09,1.0,0.5
+Haas F1 Team,3.0,Australian Grand Prix,3,2024-03-24,4.0,1.33
+Haas F1 Team,0.0,Japanese Grand Prix,4,2024-04-07,4.0,1.33
+Haas F1 Team,1.0,Chinese Grand Prix,5,2024-04-21,5.0,1.33
+Haas F1 Team,0.0,Miami Grand Prix,6,2024-05-05,5.0,0.33
+Haas F1 Team,0.0,Emilia Romagna Grand Prix,7,2024-05-19,5.0,0.33
+Haas F1 Team,0.0,Monaco Grand Prix,8,2024-05-26,5.0,0.0
+Haas F1 Team,0.0,Canadian Grand Prix,9,2024-06-09,5.0,0.0
+Haas F1 Team,0.0,Spanish Grand Prix,10,2024-06-23,5.0,0.0
+Haas F1 Team,12.0,Austrian Grand Prix,11,2024-06-30,17.0,4.0
+Haas F1 Team,8.0,British Grand Prix,12,2024-07-07,25.0,6.67
+Haas F1 Team,0.0,Hungarian Grand Prix,13,2024-07-21,25.0,6.67
+Haas F1 Team,0.0,Belgian Grand Prix,14,2024-07-28,25.0,2.67
+Haas F1 Team,0.0,Dutch Grand Prix,15,2024-08-25,25.0,0.0
+Haas F1 Team,1.0,Italian Grand Prix,16,2024-09-01,26.0,0.33
+Haas F1 Team,1.0,Azerbaijan Grand Prix,17,2024-09-15,27.0,0.67
+Haas F1 Team,2.0,Singapore Grand Prix,18,2024-09-22,29.0,1.33
+Haas F1 Team,4.0,United States Grand Prix,19,2024-10-20,33.0,2.33
+Haas F1 Team,8.0,Mexico City Grand Prix,20,2024-10-27,41.0,4.67
+Haas F1 Team,0.0,São Paulo Grand Prix,21,2024-11-03,41.0,4.0
+Haas F1 Team,4.0,Las Vegas Grand Prix,22,2024-11-23,45.0,4.0
+Haas F1 Team,2.0,Qatar Grand Prix,23,2024-12-01,47.0,2.0
+Haas F1 Team,4.0,Abu Dhabi Grand Prix,24,2024-12-08,51.0,3.33
+Kick Sauber,0.0,Bahrain Grand Prix,1,2024-03-02,0.0,0.0
+Kick Sauber,0.0,Saudi Arabian Grand Prix,2,2024-03-09,0.0,0.0
+Kick Sauber,0.0,Australian Grand Prix,3,2024-03-24,0.0,0.0
+Kick Sauber,0.0,Japanese Grand Prix,4,2024-04-07,0.0,0.0
+Kick Sauber,0.0,Chinese Grand Prix,5,2024-04-21,0.0,0.0
+Kick Sauber,0.0,Miami Grand Prix,6,2024-05-05,0.0,0.0
+Kick Sauber,0.0,Emilia Romagna Grand Prix,7,2024-05-19,0.0,0.0
+Kick Sauber,0.0,Monaco Grand Prix,8,2024-05-26,0.0,0.0
+Kick Sauber,0.0,Canadian Grand Prix,9,2024-06-09,0.0,0.0
+Kick Sauber,0.0,Spanish Grand Prix,10,2024-06-23,0.0,0.0
+Kick Sauber,0.0,Austrian Grand Prix,11,2024-06-30,0.0,0.0
+Kick Sauber,0.0,British Grand Prix,12,2024-07-07,0.0,0.0
+Kick Sauber,0.0,Hungarian Grand Prix,13,2024-07-21,0.0,0.0
+Kick Sauber,0.0,Belgian Grand Prix,14,2024-07-28,0.0,0.0
+Kick Sauber,0.0,Dutch Grand Prix,15,2024-08-25,0.0,0.0
+Kick Sauber,0.0,Italian Grand Prix,16,2024-09-01,0.0,0.0
+Kick Sauber,0.0,Azerbaijan Grand Prix,17,2024-09-15,0.0,0.0
+Kick Sauber,0.0,Singapore Grand Prix,18,2024-09-22,0.0,0.0
+Kick Sauber,0.0,United States Grand Prix,19,2024-10-20,0.0,0.0
+Kick Sauber,0.0,Mexico City Grand Prix,20,2024-10-27,0.0,0.0
+Kick Sauber,0.0,São Paulo Grand Prix,21,2024-11-03,0.0,0.0
+Kick Sauber,0.0,Las Vegas Grand Prix,22,2024-11-23,0.0,0.0
+Kick Sauber,4.0,Qatar Grand Prix,23,2024-12-01,4.0,1.33
+Kick Sauber,0.0,Abu Dhabi Grand Prix,24,2024-12-08,4.0,1.33
+McLaren,12.0,Bahrain Grand Prix,1,2024-03-02,12.0,12.0
+McLaren,16.0,Saudi Arabian Grand Prix,2,2024-03-09,28.0,14.0
+McLaren,27.0,Australian Grand Prix,3,2024-03-24,55.0,18.33
+McLaren,14.0,Japanese Grand Prix,4,2024-04-07,69.0,19.0
+McLaren,22.0,Chinese Grand Prix,5,2024-04-21,91.0,21.0
+McLaren,25.0,Miami Grand Prix,6,2024-05-05,116.0,20.33
+McLaren,30.0,Emilia Romagna Grand Prix,7,2024-05-19,146.0,25.67
+McLaren,30.0,Monaco Grand Prix,8,2024-05-26,176.0,28.33
+McLaren,28.0,Canadian Grand Prix,9,2024-06-09,204.0,29.33
+McLaren,25.0,Spanish Grand Prix,10,2024-06-23,229.0,27.67
+McLaren,18.0,Austrian Grand Prix,11,2024-06-30,247.0,23.67
+McLaren,27.0,British Grand Prix,12,2024-07-07,274.0,23.33
+McLaren,43.0,Hungarian Grand Prix,13,2024-07-21,317.0,29.33
+McLaren,28.0,Belgian Grand Prix,14,2024-07-28,345.0,32.67
+McLaren,38.0,Dutch Grand Prix,15,2024-08-25,383.0,36.33
+McLaren,34.0,Italian Grand Prix,16,2024-09-01,417.0,33.33
+McLaren,38.0,Azerbaijan Grand Prix,17,2024-09-15,455.0,36.67
+McLaren,40.0,Singapore Grand Prix,18,2024-09-22,495.0,37.33
+McLaren,22.0,United States Grand Prix,19,2024-10-20,517.0,33.33
+McLaren,22.0,Mexico City Grand Prix,20,2024-10-27,539.0,28.0
+McLaren,12.0,São Paulo Grand Prix,21,2024-11-03,551.0,18.67
+McLaren,15.0,Las Vegas Grand Prix,22,2024-11-23,566.0,16.33
+McLaren,17.0,Qatar Grand Prix,23,2024-12-01,583.0,14.67
+McLaren,26.0,Abu Dhabi Grand Prix,24,2024-12-08,609.0,19.33
+Mercedes,16.0,Bahrain Grand Prix,1,2024-03-02,16.0,16.0
+Mercedes,10.0,Saudi Arabian Grand Prix,2,2024-03-09,26.0,13.0
+Mercedes,0.0,Australian Grand Prix,3,2024-03-24,26.0,8.67
+Mercedes,8.0,Japanese Grand Prix,4,2024-04-07,34.0,6.0
+Mercedes,10.0,Chinese Grand Prix,5,2024-04-21,44.0,6.0
+Mercedes,12.0,Miami Grand Prix,6,2024-05-05,56.0,10.0
+Mercedes,15.0,Emilia Romagna Grand Prix,7,2024-05-19,71.0,12.33
+Mercedes,17.0,Monaco Grand Prix,8,2024-05-26,88.0,14.67
+Mercedes,28.0,Canadian Grand Prix,9,2024-06-09,116.0,20.0
+Mercedes,27.0,Spanish Grand Prix,10,2024-06-23,143.0,24.0
+Mercedes,37.0,Austrian Grand Prix,11,2024-06-30,180.0,30.67
+Mercedes,25.0,British Grand Prix,12,2024-07-07,205.0,29.67
+Mercedes,20.0,Hungarian Grand Prix,13,2024-07-21,225.0,27.33
+Mercedes,25.0,Belgian Grand Prix,14,2024-07-28,250.0,23.33
+Mercedes,10.0,Dutch Grand Prix,15,2024-08-25,260.0,18.33
+Mercedes,16.0,Italian Grand Prix,16,2024-09-01,276.0,17.0
+Mercedes,17.0,Azerbaijan Grand Prix,17,2024-09-15,293.0,14.33
+Mercedes,20.0,Singapore Grand Prix,18,2024-09-22,313.0,17.67
+Mercedes,8.0,United States Grand Prix,19,2024-10-20,321.0,15.0
+Mercedes,22.0,Mexico City Grand Prix,20,2024-10-27,343.0,16.67
+Mercedes,13.0,São Paulo Grand Prix,21,2024-11-03,356.0,14.33
+Mercedes,43.0,Las Vegas Grand Prix,22,2024-11-23,399.0,26.0
+Mercedes,12.0,Qatar Grand Prix,23,2024-12-01,411.0,22.67
+Mercedes,22.0,Abu Dhabi Grand Prix,24,2024-12-08,433.0,25.67
+RB,0.0,Bahrain Grand Prix,1,2024-03-02,0.0,0.0
+RB,0.0,Saudi Arabian Grand Prix,2,2024-03-09,0.0,0.0
+RB,6.0,Australian Grand Prix,3,2024-03-24,6.0,2.0
+RB,1.0,Japanese Grand Prix,4,2024-04-07,7.0,2.33
+RB,0.0,Chinese Grand Prix,5,2024-04-21,7.0,2.33
+RB,6.0,Miami Grand Prix,6,2024-05-05,13.0,2.33
+RB,1.0,Emilia Romagna Grand Prix,7,2024-05-19,14.0,2.33
+RB,4.0,Monaco Grand Prix,8,2024-05-26,18.0,3.67
+RB,4.0,Canadian Grand Prix,9,2024-06-09,22.0,3.0
+RB,0.0,Spanish Grand Prix,10,2024-06-23,22.0,2.67
+RB,2.0,Austrian Grand Prix,11,2024-06-30,24.0,2.0
+RB,1.0,British Grand Prix,12,2024-07-07,25.0,1.0
+RB,2.0,Hungarian Grand Prix,13,2024-07-21,27.0,1.67
+RB,1.0,Belgian Grand Prix,14,2024-07-28,28.0,1.33
+RB,0.0,Dutch Grand Prix,15,2024-08-25,28.0,1.0
+RB,0.0,Italian Grand Prix,16,2024-09-01,28.0,0.33
+RB,0.0,Azerbaijan Grand Prix,17,2024-09-15,28.0,0.0
+RB,0.0,Singapore Grand Prix,18,2024-09-22,28.0,0.0
+RB,2.0,United States Grand Prix,19,2024-10-20,30.0,0.67
+RB,0.0,Mexico City Grand Prix,20,2024-10-27,30.0,0.67
+RB,8.0,São Paulo Grand Prix,21,2024-11-03,38.0,3.33
+RB,2.0,Las Vegas Grand Prix,22,2024-11-23,40.0,3.33
+RB,0.0,Qatar Grand Prix,23,2024-12-01,40.0,3.33
+RB,0.0,Abu Dhabi Grand Prix,24,2024-12-08,40.0,0.67
+Red Bull Racing,44.0,Bahrain Grand Prix,1,2024-03-02,44.0,44.0
+Red Bull Racing,43.0,Saudi Arabian Grand Prix,2,2024-03-09,87.0,43.5
+Red Bull Racing,10.0,Australian Grand Prix,3,2024-03-24,97.0,32.33
+Red Bull Racing,44.0,Japanese Grand Prix,4,2024-04-07,141.0,32.33
+Red Bull Racing,40.0,Chinese Grand Prix,5,2024-04-21,181.0,31.33
+Red Bull Racing,30.0,Miami Grand Prix,6,2024-05-05,211.0,38.0
+Red Bull Racing,29.0,Emilia Romagna Grand Prix,7,2024-05-19,240.0,33.0
+Red Bull Racing,8.0,Monaco Grand Prix,8,2024-05-26,248.0,22.33
+Red Bull Racing,25.0,Canadian Grand Prix,9,2024-06-09,273.0,20.67
+Red Bull Racing,29.0,Spanish Grand Prix,10,2024-06-23,302.0,20.67
+Red Bull Racing,16.0,Austrian Grand Prix,11,2024-06-30,318.0,23.33
+Red Bull Racing,18.0,British Grand Prix,12,2024-07-07,336.0,21.0
+Red Bull Racing,16.0,Hungarian Grand Prix,13,2024-07-21,352.0,16.67
+Red Bull Racing,19.0,Belgian Grand Prix,14,2024-07-28,371.0,17.67
+Red Bull Racing,26.0,Dutch Grand Prix,15,2024-08-25,397.0,20.33
+Red Bull Racing,12.0,Italian Grand Prix,16,2024-09-01,409.0,19.0
+Red Bull Racing,10.0,Azerbaijan Grand Prix,17,2024-09-15,419.0,16.0
+Red Bull Racing,19.0,Singapore Grand Prix,18,2024-09-22,438.0,13.67
+Red Bull Racing,21.0,United States Grand Prix,19,2024-10-20,459.0,16.67
+Red Bull Racing,8.0,Mexico City Grand Prix,20,2024-10-27,467.0,16.0
+Red Bull Racing,26.0,São Paulo Grand Prix,21,2024-11-03,493.0,18.33
+Red Bull Racing,11.0,Las Vegas Grand Prix,22,2024-11-23,504.0,15.0
+Red Bull Racing,25.0,Qatar Grand Prix,23,2024-12-01,529.0,20.67
+Red Bull Racing,8.0,Abu Dhabi Grand Prix,24,2024-12-08,537.0,14.67
+Williams,0.0,Bahrain Grand Prix,1,2024-03-02,0.0,0.0
+Williams,0.0,Saudi Arabian Grand Prix,2,2024-03-09,0.0,0.0
+Williams,0.0,Australian Grand Prix,3,2024-03-24,0.0,0.0
+Williams,0.0,Japanese Grand Prix,4,2024-04-07,0.0,0.0
+Williams,0.0,Chinese Grand Prix,5,2024-04-21,0.0,0.0
+Williams,0.0,Miami Grand Prix,6,2024-05-05,0.0,0.0
+Williams,0.0,Emilia Romagna Grand Prix,7,2024-05-19,0.0,0.0
+Williams,2.0,Monaco Grand Prix,8,2024-05-26,2.0,0.67
+Williams,0.0,Canadian Grand Prix,9,2024-06-09,2.0,0.67
+Williams,0.0,Spanish Grand Prix,10,2024-06-23,2.0,0.67
+Williams,0.0,Austrian Grand Prix,11,2024-06-30,2.0,0.0
+Williams,2.0,British Grand Prix,12,2024-07-07,4.0,0.67
+Williams,0.0,Hungarian Grand Prix,13,2024-07-21,4.0,0.67
+Williams,0.0,Belgian Grand Prix,14,2024-07-28,4.0,0.67
+Williams,0.0,Dutch Grand Prix,15,2024-08-25,4.0,0.0
+Williams,2.0,Italian Grand Prix,16,2024-09-01,6.0,0.67
+Williams,10.0,Azerbaijan Grand Prix,17,2024-09-15,16.0,4.0
+Williams,0.0,Singapore Grand Prix,18,2024-09-22,16.0,4.0
+Williams,1.0,United States Grand Prix,19,2024-10-20,17.0,3.67
+Williams,0.0,Mexico City Grand Prix,20,2024-10-27,17.0,0.33
+Williams,0.0,São Paulo Grand Prix,21,2024-11-03,17.0,0.33
+Williams,0.0,Las Vegas Grand Prix,22,2024-11-23,17.0,0.0
+Williams,0.0,Qatar Grand Prix,23,2024-12-01,17.0,0.0
+Williams,0.0,Abu Dhabi Grand Prix,24,2024-12-08,17.0,0.0
