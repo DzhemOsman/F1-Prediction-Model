@@ -1,0 +1,211 @@
+TeamName,RacePoints,EventName,RoundNumber,EventDate,CumulativePoints,TeamForm_Last3
+Alpine,0.0,Australian Grand Prix,1,2025-03-16,0.0,0.0
+Alpine,0.0,Chinese Grand Prix,2,2025-03-23,0.0,0.0
+Alpine,0.0,Japanese Grand Prix,3,2025-04-06,0.0,0.0
+Alpine,6.0,Bahrain Grand Prix,4,2025-04-13,6.0,2.0
+Alpine,0.0,Saudi Arabian Grand Prix,5,2025-04-20,6.0,2.0
+Alpine,0.0,Miami Grand Prix,6,2025-05-04,6.0,2.0
+Alpine,0.0,Emilia Romagna Grand Prix,7,2025-05-18,6.0,0.0
+Alpine,0.0,Monaco Grand Prix,8,2025-05-25,6.0,0.0
+Alpine,4.0,Spanish Grand Prix,9,2025-06-01,10.0,1.33
+Alpine,0.0,Canadian Grand Prix,10,2025-06-15,10.0,1.33
+Alpine,0.0,Austrian Grand Prix,11,2025-06-29,10.0,1.33
+Alpine,8.0,British Grand Prix,12,2025-07-06,18.0,2.67
+Alpine,1.0,Belgian Grand Prix,13,2025-07-27,19.0,3.0
+Alpine,0.0,Hungarian Grand Prix,14,2025-08-03,19.0,3.0
+Alpine,0.0,Dutch Grand Prix,15,2025-08-31,19.0,0.33
+Alpine,0.0,Italian Grand Prix,16,2025-09-07,19.0,0.0
+Alpine,0.0,Azerbaijan Grand Prix,17,2025-09-21,19.0,0.0
+Alpine,0.0,Singapore Grand Prix,18,2025-10-05,19.0,0.0
+Alpine,0.0,United States Grand Prix,19,2025-10-19,19.0,0.0
+Alpine,0.0,Mexico City Grand Prix,20,2025-10-26,19.0,0.0
+Alpine,1.0,São Paulo Grand Prix,21,2025-11-09,20.0,0.33
+Aston Martin,8.0,Australian Grand Prix,1,2025-03-16,8.0,8.0
+Aston Martin,2.0,Chinese Grand Prix,2,2025-03-23,10.0,5.0
+Aston Martin,0.0,Japanese Grand Prix,3,2025-04-06,10.0,3.33
+Aston Martin,0.0,Bahrain Grand Prix,4,2025-04-13,10.0,0.67
+Aston Martin,0.0,Saudi Arabian Grand Prix,5,2025-04-20,10.0,0.0
+Aston Martin,0.0,Miami Grand Prix,6,2025-05-04,10.0,0.0
+Aston Martin,0.0,Emilia Romagna Grand Prix,7,2025-05-18,10.0,0.0
+Aston Martin,0.0,Monaco Grand Prix,8,2025-05-25,10.0,0.0
+Aston Martin,2.0,Spanish Grand Prix,9,2025-06-01,12.0,0.67
+Aston Martin,6.0,Canadian Grand Prix,10,2025-06-15,18.0,2.67
+Aston Martin,6.0,Austrian Grand Prix,11,2025-06-29,24.0,4.67
+Aston Martin,8.0,British Grand Prix,12,2025-07-06,32.0,6.67
+Aston Martin,0.0,Belgian Grand Prix,13,2025-07-27,32.0,4.67
+Aston Martin,16.0,Hungarian Grand Prix,14,2025-08-03,48.0,8.0
+Aston Martin,10.0,Dutch Grand Prix,15,2025-08-31,58.0,8.67
+Aston Martin,0.0,Italian Grand Prix,16,2025-09-07,58.0,8.67
+Aston Martin,0.0,Azerbaijan Grand Prix,17,2025-09-21,58.0,3.33
+Aston Martin,6.0,Singapore Grand Prix,18,2025-10-05,64.0,2.0
+Aston Martin,1.0,United States Grand Prix,19,2025-10-19,65.0,2.33
+Aston Martin,0.0,Mexico City Grand Prix,20,2025-10-26,65.0,2.33
+Aston Martin,0.0,São Paulo Grand Prix,21,2025-11-09,65.0,0.33
+Ferrari,5.0,Australian Grand Prix,1,2025-03-16,5.0,5.0
+Ferrari,0.0,Chinese Grand Prix,2,2025-03-23,5.0,2.5
+Ferrari,18.0,Japanese Grand Prix,3,2025-04-06,23.0,7.67
+Ferrari,22.0,Bahrain Grand Prix,4,2025-04-13,45.0,13.33
+Ferrari,21.0,Saudi Arabian Grand Prix,5,2025-04-20,66.0,20.33
+Ferrari,10.0,Miami Grand Prix,6,2025-05-04,76.0,17.67
+Ferrari,20.0,Emilia Romagna Grand Prix,7,2025-05-18,96.0,17.0
+Ferrari,28.0,Monaco Grand Prix,8,2025-05-25,124.0,19.33
+Ferrari,23.0,Spanish Grand Prix,9,2025-06-01,147.0,23.67
+Ferrari,18.0,Canadian Grand Prix,10,2025-06-15,165.0,23.0
+Ferrari,27.0,Austrian Grand Prix,11,2025-06-29,192.0,22.67
+Ferrari,12.0,British Grand Prix,12,2025-07-06,204.0,19.0
+Ferrari,21.0,Belgian Grand Prix,13,2025-07-27,225.0,20.0
+Ferrari,12.0,Hungarian Grand Prix,14,2025-08-03,237.0,15.0
+Ferrari,0.0,Dutch Grand Prix,15,2025-08-31,237.0,11.0
+Ferrari,20.0,Italian Grand Prix,16,2025-09-07,257.0,10.67
+Ferrari,6.0,Azerbaijan Grand Prix,17,2025-09-21,263.0,8.67
+Ferrari,12.0,Singapore Grand Prix,18,2025-10-05,275.0,12.67
+Ferrari,27.0,United States Grand Prix,19,2025-10-19,302.0,15.0
+Ferrari,22.0,Mexico City Grand Prix,20,2025-10-26,324.0,20.33
+Ferrari,0.0,São Paulo Grand Prix,21,2025-11-09,324.0,16.33
+Haas F1 Team,0.0,Australian Grand Prix,1,2025-03-16,0.0,0.0
+Haas F1 Team,14.0,Chinese Grand Prix,2,2025-03-23,14.0,7.0
+Haas F1 Team,1.0,Japanese Grand Prix,3,2025-04-06,15.0,5.0
+Haas F1 Team,5.0,Bahrain Grand Prix,4,2025-04-13,20.0,6.67
+Haas F1 Team,0.0,Saudi Arabian Grand Prix,5,2025-04-20,20.0,2.0
+Haas F1 Team,0.0,Miami Grand Prix,6,2025-05-04,20.0,1.67
+Haas F1 Team,0.0,Emilia Romagna Grand Prix,7,2025-05-18,20.0,0.0
+Haas F1 Team,6.0,Monaco Grand Prix,8,2025-05-25,26.0,2.0
+Haas F1 Team,0.0,Spanish Grand Prix,9,2025-06-01,26.0,2.0
+Haas F1 Team,2.0,Canadian Grand Prix,10,2025-06-15,28.0,2.67
+Haas F1 Team,1.0,Austrian Grand Prix,11,2025-06-29,29.0,1.0
+Haas F1 Team,0.0,British Grand Prix,12,2025-07-06,29.0,1.0
+Haas F1 Team,0.0,Belgian Grand Prix,13,2025-07-27,29.0,0.33
+Haas F1 Team,0.0,Hungarian Grand Prix,14,2025-08-03,29.0,0.0
+Haas F1 Team,9.0,Dutch Grand Prix,15,2025-08-31,38.0,3.0
+Haas F1 Team,0.0,Italian Grand Prix,16,2025-09-07,38.0,3.0
+Haas F1 Team,0.0,Azerbaijan Grand Prix,17,2025-09-21,38.0,3.0
+Haas F1 Team,2.0,Singapore Grand Prix,18,2025-10-05,40.0,0.67
+Haas F1 Team,2.0,United States Grand Prix,19,2025-10-19,42.0,1.33
+Haas F1 Team,14.0,Mexico City Grand Prix,20,2025-10-26,56.0,6.0
+Haas F1 Team,8.0,São Paulo Grand Prix,21,2025-11-09,64.0,8.0
+Kick Sauber,6.0,Australian Grand Prix,1,2025-03-16,6.0,6.0
+Kick Sauber,0.0,Chinese Grand Prix,2,2025-03-23,6.0,3.0
+Kick Sauber,0.0,Japanese Grand Prix,3,2025-04-06,6.0,2.0
+Kick Sauber,0.0,Bahrain Grand Prix,4,2025-04-13,6.0,0.0
+Kick Sauber,0.0,Saudi Arabian Grand Prix,5,2025-04-20,6.0,0.0
+Kick Sauber,0.0,Miami Grand Prix,6,2025-05-04,6.0,0.0
+Kick Sauber,0.0,Emilia Romagna Grand Prix,7,2025-05-18,6.0,0.0
+Kick Sauber,0.0,Monaco Grand Prix,8,2025-05-25,6.0,0.0
+Kick Sauber,10.0,Spanish Grand Prix,9,2025-06-01,16.0,3.33
+Kick Sauber,4.0,Canadian Grand Prix,10,2025-06-15,20.0,4.67
+Kick Sauber,6.0,Austrian Grand Prix,11,2025-06-29,26.0,6.67
+Kick Sauber,15.0,British Grand Prix,12,2025-07-06,41.0,8.33
+Kick Sauber,2.0,Belgian Grand Prix,13,2025-07-27,43.0,7.67
+Kick Sauber,8.0,Hungarian Grand Prix,14,2025-08-03,51.0,8.33
+Kick Sauber,0.0,Dutch Grand Prix,15,2025-08-31,51.0,3.33
+Kick Sauber,4.0,Italian Grand Prix,16,2025-09-07,55.0,4.0
+Kick Sauber,0.0,Azerbaijan Grand Prix,17,2025-09-21,55.0,1.33
+Kick Sauber,0.0,Singapore Grand Prix,18,2025-10-05,55.0,1.33
+Kick Sauber,4.0,United States Grand Prix,19,2025-10-19,59.0,1.33
+Kick Sauber,1.0,Mexico City Grand Prix,20,2025-10-26,60.0,1.67
+Kick Sauber,2.0,São Paulo Grand Prix,21,2025-11-09,62.0,2.33
+McLaren,27.0,Australian Grand Prix,1,2025-03-16,27.0,27.0
+McLaren,43.0,Chinese Grand Prix,2,2025-03-23,70.0,35.0
+McLaren,33.0,Japanese Grand Prix,3,2025-04-06,103.0,34.33
+McLaren,40.0,Bahrain Grand Prix,4,2025-04-13,143.0,38.67
+McLaren,37.0,Saudi Arabian Grand Prix,5,2025-04-20,180.0,36.67
+McLaren,43.0,Miami Grand Prix,6,2025-05-04,223.0,40.0
+McLaren,33.0,Emilia Romagna Grand Prix,7,2025-05-18,256.0,37.67
+McLaren,40.0,Monaco Grand Prix,8,2025-05-25,296.0,38.67
+McLaren,43.0,Spanish Grand Prix,9,2025-06-01,339.0,38.67
+McLaren,12.0,Canadian Grand Prix,10,2025-06-15,351.0,31.67
+McLaren,43.0,Austrian Grand Prix,11,2025-06-29,394.0,32.67
+McLaren,43.0,British Grand Prix,12,2025-07-06,437.0,32.67
+McLaren,43.0,Belgian Grand Prix,13,2025-07-27,480.0,43.0
+McLaren,43.0,Hungarian Grand Prix,14,2025-08-03,523.0,43.0
+McLaren,25.0,Dutch Grand Prix,15,2025-08-31,548.0,37.0
+McLaren,33.0,Italian Grand Prix,16,2025-09-07,581.0,33.67
+McLaren,6.0,Azerbaijan Grand Prix,17,2025-09-21,587.0,21.33
+McLaren,27.0,Singapore Grand Prix,18,2025-10-05,614.0,22.0
+McLaren,28.0,United States Grand Prix,19,2025-10-19,642.0,20.33
+McLaren,35.0,Mexico City Grand Prix,20,2025-10-26,677.0,30.0
+McLaren,35.0,São Paulo Grand Prix,21,2025-11-09,712.0,32.67
+Mercedes,27.0,Australian Grand Prix,1,2025-03-16,27.0,27.0
+Mercedes,23.0,Chinese Grand Prix,2,2025-03-23,50.0,25.0
+Mercedes,18.0,Japanese Grand Prix,3,2025-04-06,68.0,22.67
+Mercedes,18.0,Bahrain Grand Prix,4,2025-04-13,86.0,19.67
+Mercedes,18.0,Saudi Arabian Grand Prix,5,2025-04-20,104.0,18.0
+Mercedes,23.0,Miami Grand Prix,6,2025-05-04,127.0,19.67
+Mercedes,6.0,Emilia Romagna Grand Prix,7,2025-05-18,133.0,15.67
+Mercedes,0.0,Monaco Grand Prix,8,2025-05-25,133.0,9.67
+Mercedes,12.0,Spanish Grand Prix,9,2025-06-01,145.0,6.0
+Mercedes,40.0,Canadian Grand Prix,10,2025-06-15,185.0,17.33
+Mercedes,10.0,Austrian Grand Prix,11,2025-06-29,195.0,20.67
+Mercedes,1.0,British Grand Prix,12,2025-07-06,196.0,17.0
+Mercedes,10.0,Belgian Grand Prix,13,2025-07-27,206.0,7.0
+Mercedes,16.0,Hungarian Grand Prix,14,2025-08-03,222.0,9.0
+Mercedes,12.0,Dutch Grand Prix,15,2025-08-31,234.0,12.67
+Mercedes,12.0,Italian Grand Prix,16,2025-09-07,246.0,13.33
+Mercedes,30.0,Azerbaijan Grand Prix,17,2025-09-21,276.0,18.0
+Mercedes,35.0,Singapore Grand Prix,18,2025-10-05,311.0,25.67
+Mercedes,8.0,United States Grand Prix,19,2025-10-19,319.0,24.33
+Mercedes,14.0,Mexico City Grand Prix,20,2025-10-26,333.0,19.0
+Mercedes,30.0,São Paulo Grand Prix,21,2025-11-09,363.0,17.33
+Racing Bulls,0.0,Australian Grand Prix,1,2025-03-16,0.0,0.0
+Racing Bulls,0.0,Chinese Grand Prix,2,2025-03-23,0.0,0.0
+Racing Bulls,4.0,Japanese Grand Prix,3,2025-04-06,4.0,1.33
+Racing Bulls,0.0,Bahrain Grand Prix,4,2025-04-13,4.0,1.33
+Racing Bulls,1.0,Saudi Arabian Grand Prix,5,2025-04-20,5.0,1.67
+Racing Bulls,0.0,Miami Grand Prix,6,2025-05-04,5.0,0.33
+Racing Bulls,2.0,Emilia Romagna Grand Prix,7,2025-05-18,7.0,1.0
+Racing Bulls,12.0,Monaco Grand Prix,8,2025-05-25,19.0,4.67
+Racing Bulls,6.0,Spanish Grand Prix,9,2025-06-01,25.0,6.67
+Racing Bulls,0.0,Canadian Grand Prix,10,2025-06-15,25.0,6.0
+Racing Bulls,8.0,Austrian Grand Prix,11,2025-06-29,33.0,4.67
+Racing Bulls,0.0,British Grand Prix,12,2025-07-06,33.0,2.67
+Racing Bulls,4.0,Belgian Grand Prix,13,2025-07-27,37.0,4.0
+Racing Bulls,4.0,Hungarian Grand Prix,14,2025-08-03,41.0,2.67
+Racing Bulls,15.0,Dutch Grand Prix,15,2025-08-31,56.0,7.67
+Racing Bulls,1.0,Italian Grand Prix,16,2025-09-07,57.0,6.67
+Racing Bulls,11.0,Azerbaijan Grand Prix,17,2025-09-21,68.0,9.0
+Racing Bulls,0.0,Singapore Grand Prix,18,2025-10-05,68.0,4.0
+Racing Bulls,0.0,United States Grand Prix,19,2025-10-19,68.0,3.67
+Racing Bulls,0.0,Mexico City Grand Prix,20,2025-10-26,68.0,0.0
+Racing Bulls,10.0,São Paulo Grand Prix,21,2025-11-09,78.0,3.33
+Red Bull Racing,18.0,Australian Grand Prix,1,2025-03-16,18.0,18.0
+Red Bull Racing,12.0,Chinese Grand Prix,2,2025-03-23,30.0,15.0
+Red Bull Racing,25.0,Japanese Grand Prix,3,2025-04-06,55.0,18.33
+Red Bull Racing,10.0,Bahrain Grand Prix,4,2025-04-13,65.0,15.67
+Red Bull Racing,18.0,Saudi Arabian Grand Prix,5,2025-04-20,83.0,17.67
+Red Bull Racing,13.0,Miami Grand Prix,6,2025-05-04,96.0,13.67
+Red Bull Racing,26.0,Emilia Romagna Grand Prix,7,2025-05-18,122.0,19.0
+Red Bull Racing,12.0,Monaco Grand Prix,8,2025-05-25,134.0,17.0
+Red Bull Racing,1.0,Spanish Grand Prix,9,2025-06-01,135.0,13.0
+Red Bull Racing,18.0,Canadian Grand Prix,10,2025-06-15,153.0,10.33
+Red Bull Racing,0.0,Austrian Grand Prix,11,2025-06-29,153.0,6.33
+Red Bull Racing,10.0,British Grand Prix,12,2025-07-06,163.0,9.33
+Red Bull Racing,12.0,Belgian Grand Prix,13,2025-07-27,175.0,7.33
+Red Bull Racing,2.0,Hungarian Grand Prix,14,2025-08-03,177.0,8.0
+Red Bull Racing,20.0,Dutch Grand Prix,15,2025-08-31,197.0,11.33
+Red Bull Racing,25.0,Italian Grand Prix,16,2025-09-07,222.0,15.67
+Red Bull Racing,33.0,Azerbaijan Grand Prix,17,2025-09-21,255.0,26.0
+Red Bull Racing,18.0,Singapore Grand Prix,18,2025-10-05,273.0,25.33
+Red Bull Racing,31.0,United States Grand Prix,19,2025-10-19,304.0,27.33
+Red Bull Racing,15.0,Mexico City Grand Prix,20,2025-10-26,319.0,21.33
+Red Bull Racing,15.0,São Paulo Grand Prix,21,2025-11-09,334.0,20.33
+Williams,10.0,Australian Grand Prix,1,2025-03-16,10.0,10.0
+Williams,7.0,Chinese Grand Prix,2,2025-03-23,17.0,8.5
+Williams,2.0,Japanese Grand Prix,3,2025-04-06,19.0,6.33
+Williams,0.0,Bahrain Grand Prix,4,2025-04-13,19.0,3.0
+Williams,6.0,Saudi Arabian Grand Prix,5,2025-04-20,25.0,2.67
+Williams,12.0,Miami Grand Prix,6,2025-05-04,37.0,6.0
+Williams,14.0,Emilia Romagna Grand Prix,7,2025-05-18,51.0,10.67
+Williams,3.0,Monaco Grand Prix,8,2025-05-25,54.0,9.67
+Williams,0.0,Spanish Grand Prix,9,2025-06-01,54.0,5.67
+Williams,1.0,Canadian Grand Prix,10,2025-06-15,55.0,1.33
+Williams,0.0,Austrian Grand Prix,11,2025-06-29,55.0,0.33
+Williams,4.0,British Grand Prix,12,2025-07-06,59.0,1.67
+Williams,8.0,Belgian Grand Prix,13,2025-07-27,67.0,4.0
+Williams,0.0,Hungarian Grand Prix,14,2025-08-03,67.0,4.0
+Williams,10.0,Dutch Grand Prix,15,2025-08-31,77.0,6.0
+Williams,6.0,Italian Grand Prix,16,2025-09-07,83.0,5.33
+Williams,15.0,Azerbaijan Grand Prix,17,2025-09-21,98.0,10.33
+Williams,1.0,Singapore Grand Prix,18,2025-10-05,99.0,7.33
+Williams,0.0,United States Grand Prix,19,2025-10-19,99.0,5.33
+Williams,0.0,Mexico City Grand Prix,20,2025-10-26,99.0,0.33
+Williams,0.0,São Paulo Grand Prix,21,2025-11-09,99.0,0.0
