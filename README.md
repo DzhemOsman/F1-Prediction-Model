@@ -155,10 +155,10 @@ All data is collected using the [FastF1](https://docs.fastf1.dev/) Python librar
 
 ## 🤖 Models
 
-### Multi-Layer Perceptron (Neural Network)
+### Multi-Layer Perceptron (Neural Network) Version 5
 
-- Architecture: 128 → 64 → 32 neurons
-- Regularization: L2 + Dropout (30%)
+- Architecture: 64 → 32 neurons
+- Regularization: L2 (0,001) + Dropout (20%)
 - Optimizer: Adam with learning rate scheduling
 - Early stopping to prevent overfitting
 
